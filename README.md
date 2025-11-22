@@ -23,6 +23,6 @@ It's a perpetual process. It's messy. It's complex. It works.
 | **ID**         | **Project**           | **Description**                                                                                         | **Status**   |
 | -------------- | --------------------- | ------------------------------------------------------------------------------------------------------- | ------------ |
 | **[MISSDAT]**  | **Signal Processing** | **M**odel for **I**ntelligent **S**pace **S**ignal **D**enoising and **A**ssociation-based **T**agging. | `STANDBY`🟠  |
-| **[Di-Hive](https://github.com/MewKitBit/Di-Hive)**  | **IoT / Embedded**    | Distributed ESP32 network for real-time apiary monitoring and environmental telemetry.                  | `ARCHIVED`🟣 |
+| **[Di-Hive](https://github.com/MewKitBit/Di-Hive)**  | **IoT / Embedded** | Distributed ESP32 network for real-time apiary monitoring and environmental telemetry.                                                                                                                                                                     | `ARCHIVED`🟣 |
 | **[Solarium]** | **Simulation**        | Stateful solar energy production simulator leveraging PVLib's physics engine.                           | `ACTIVE`🟢   |
-| **[DOMO]**     | **Automation**        | Autonomous logic for dynamic inventory organization and retrieval.                                      | `DESIGN` ⚪  |
+| **[DOMO]**     | **Automation**        | Automatic inventory organization embedded system.                                                       | `DESIGN` ⚪  |
