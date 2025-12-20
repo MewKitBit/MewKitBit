@@ -22,9 +22,10 @@ It's a perpetual process. It's messy. It's complex. It works.
 
 | **ID**         | **Project**           | **Description**                                                                                         | **Status**   |
 | -------------- | --------------------- | ------------------------------------------------------------------------------------------------------- | ------------ |
+| **[Di-Hive](https://github.com/MewKitBit/Di-Hive)**  | **IoT / Embedded** | Distributed ESP32 system for real-time and fault-resistant telemetry applied to apiculture.| ![Static Badge](https://img.shields.io/badge/Complete-purple) |
 | **[MISSDAT]**  | **Signal Processing** | **M**odel for **I**ntelligent **S**pace **S**ignal **D**enoising and **A**ssociation-based **T**agging. |![Static Badge](https://img.shields.io/badge/Standby-orange) |
-| **[Di-Hive](https://github.com/MewKitBit/Di-Hive)**  | **IoT / Embedded** | Distributed ESP32 network for real-time apiary monitoring and environmental telemetry.| ![Static Badge](https://img.shields.io/badge/Complete-purple) |
 | **[Solaris]**  | **Simulation**        | Stateful solar energy production simulator leveraging PVLib's physics engine. | ![Static Badge](https://img.shields.io/badge/Active-green) |
+| **[GIMBAL]**   | **Control Theory**    | **1-Axis Reaction Wheel Pendulum**. ESP32-based PID controller for inverted stability. | ![Static Badge](https://img.shields.io/badge/Design-white) |
 | **[DOMO]**     | **Automation**        | Automatic inventory organization embedded system. | ![Static Badge](https://img.shields.io/badge/Design-white) |
 | **[BABEL]**    | **History / AI**      | AI based language decoder. | ![Static Badge](https://img.shields.io/badge/Design-white) |
 | **[Quant Tzu]** | **Quantum Computing** | Min-max strategy algorithm. | ![Static Badge](https://img.shields.io/badge/Design-white) |
