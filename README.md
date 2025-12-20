@@ -26,3 +26,5 @@ It's a perpetual process. It's messy. It's complex. It works.
 | **[Di-Hive](https://github.com/MewKitBit/Di-Hive)**  | **IoT / Embedded** | Distributed ESP32 network for real-time apiary monitoring and environmental telemetry.| ![Static Badge](https://img.shields.io/badge/Complete-purple) |
 | **[Solaris]**  | **Simulation**        | Stateful solar energy production simulator leveraging PVLib's physics engine. | ![Static Badge](https://img.shields.io/badge/Active-green) |
 | **[DOMO]**     | **Automation**        | Automatic inventory organization embedded system. | ![Static Badge](https://img.shields.io/badge/Design-white) |
+| **[BABEL]**    | **History / AI**      | AI based language decoder. | ![Static Badge](https://img.shields.io/badge/Design-white) |
+| **[Quant Tzu]** | **Quantum Computing** | Min-max strategy algorithm. | ![Static Badge](https://img.shields.io/badge/Design-white) |
