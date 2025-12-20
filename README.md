@@ -11,7 +11,7 @@ I go where the real problems are, in cross-disciplinary environments where physi
 
 The modern landscape is often siloed to a fault, creating blind spots in innovation. Curiosity, creativity and the nerve to try are the missing driving factors. The universe does not draw clean borders, and the problems humanity faces today demand **V-shaped creators** who can navigate it.
 
-*The interesting problems don’t belong to one discipline. Neither do I.*
+*Interesting problems don’t belong to one discipline. Neither do I.*
 ## Field book
 This is the place where a lot of what I do is recorded. You will find code that simulates, analyzes, makes things move, and whatever else I needed at the time.
 
