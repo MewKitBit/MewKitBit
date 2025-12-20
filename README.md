@@ -27,5 +27,4 @@ It's a perpetual process. It's messy. It's complex. It works.
 | **[Solaris]**  | **Simulation**        | Stateful solar energy production simulator leveraging PVLib's physics engine. | ![Static Badge](https://img.shields.io/badge/Active-green) |
 | **[GIMBAL]**   | **Control Theory**    | **1-Axis Reaction Wheel Pendulum**. ESP32-based PID controller for inverted stability. | ![Static Badge](https://img.shields.io/badge/Design-white) |
 | **[DOMO]**     | **Automation**        | Automatic inventory organization embedded system. | ![Static Badge](https://img.shields.io/badge/Design-white) |
-| **[BABEL]**    | **History / AI**      | AI based language decoder. | ![Static Badge](https://img.shields.io/badge/Design-white) |
-| **[Quant Tzu]** | **Quantum Computing** | Min-max strategy algorithm. | ![Static Badge](https://img.shields.io/badge/Design-white) |
+| **[Quant Tzu]** | **Quantum Computing** | Min-max strategy algorithm developed as part of QuantumHack 2025. | ![Static Badge](https://img.shields.io/badge/Design-white) |
