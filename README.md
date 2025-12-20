@@ -22,7 +22,7 @@ It's a perpetual process. It's messy. It's complex. It works.
 
 | **ID**         | **Project**           | **Description**                                                                                         | **Status**   |
 | -------------- | --------------------- | ------------------------------------------------------------------------------------------------------- | ------------ |
-| **[MISSDAT]**  | **Signal Processing** | **M**odel for **I**ntelligent **S**pace **S**ignal **D**enoising and **A**ssociation-based **T**agging. | `STANDBY`🟠  |
-| **[Di-Hive](https://github.com/MewKitBit/Di-Hive)**  | **IoT / Embedded** | Distributed ESP32 network for real-time apiary monitoring and environmental telemetry.                                                                                                                                                                     | `COMPLETE`🟣 |
-| **[Solaris](https://github.com/MewKitBit/Solaris)** | **Simulation**        | Stateful solar energy production simulator leveraging PVLib's physics engine.                           | `ACTIVE`🟢   |
-| **[DOMO]**     | **Automation**        | Automatic inventory organization embedded system.                                                       | `DESIGN` ⚪  |
+| **[MISSDAT]**  | **Signal Processing** | **M**odel for **I**ntelligent **S**pace **S**ignal **D**enoising and **A**ssociation-based **T**agging. |![Static Badge](https://img.shields.io/badge/Standby-orange) |
+| **[Di-Hive](https://github.com/MewKitBit/Di-Hive)**  | **IoT / Embedded** | Distributed ESP32 network for real-time apiary monitoring and environmental telemetry.| ![Static Badge](https://img.shields.io/badge/Complete-purple) |
+| **[Solaris](https://github.com/MewKitBit/Solaris)** | **Simulation**        | Stateful solar energy production simulator leveraging PVLib's physics engine. | ![Static Badge](https://img.shields.io/badge/Active-green) |
+| **[DOMO]**     | **Automation**        | Automatic inventory organization embedded system. | ![Static Badge](https://img.shields.io/badge/Design-white) |
