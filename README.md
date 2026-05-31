@@ -1,7 +1,7 @@
-## Ionut Alexandru O.M.
+## Ionut Alexandru O. M.
 Name's Alex. I create the impossible we dream of.
 
-- **MSc in Space Engineering** (Candidate)
+- **Double MSc (SpaceMaster) in Space Science & Technology  + Space Technology**
 - **BSc in Computer Engineering** (ETSISI UPM) - *Top 3 (8.2/10), 5x Honors Distinction*
 - **BSc in IT Systems Engineering** (ETSISI UPM) - *Final Year*
 
